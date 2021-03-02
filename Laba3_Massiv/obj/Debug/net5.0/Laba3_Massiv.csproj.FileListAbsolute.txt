@@ -1,0 +1,15 @@
+/Users/vovamv/RiderProjects/Laba3_Massiv/Laba3_Massiv/bin/Debug/net5.0/Laba3_Massiv.deps.json
+/Users/vovamv/RiderProjects/Laba3_Massiv/Laba3_Massiv/bin/Debug/net5.0/Laba3_Massiv.runtimeconfig.json
+/Users/vovamv/RiderProjects/Laba3_Massiv/Laba3_Massiv/bin/Debug/net5.0/Laba3_Massiv.runtimeconfig.dev.json
+/Users/vovamv/RiderProjects/Laba3_Massiv/Laba3_Massiv/bin/Debug/net5.0/Laba3_Massiv.dll
+/Users/vovamv/RiderProjects/Laba3_Massiv/Laba3_Massiv/bin/Debug/net5.0/ref/Laba3_Massiv.dll
+/Users/vovamv/RiderProjects/Laba3_Massiv/Laba3_Massiv/bin/Debug/net5.0/Laba3_Massiv.pdb
+/Users/vovamv/RiderProjects/Laba3_Massiv/Laba3_Massiv/obj/Debug/net5.0/Laba3_Massiv.csprojAssemblyReference.cache
+/Users/vovamv/RiderProjects/Laba3_Massiv/Laba3_Massiv/obj/Debug/net5.0/Laba3_Massiv.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vovamv/RiderProjects/Laba3_Massiv/Laba3_Massiv/obj/Debug/net5.0/Laba3_Massiv.AssemblyInfoInputs.cache
+/Users/vovamv/RiderProjects/Laba3_Massiv/Laba3_Massiv/obj/Debug/net5.0/Laba3_Massiv.AssemblyInfo.cs
+/Users/vovamv/RiderProjects/Laba3_Massiv/Laba3_Massiv/obj/Debug/net5.0/Laba3_Massiv.csproj.CoreCompileInputs.cache
+/Users/vovamv/RiderProjects/Laba3_Massiv/Laba3_Massiv/obj/Debug/net5.0/Laba3_Massiv.dll
+/Users/vovamv/RiderProjects/Laba3_Massiv/Laba3_Massiv/obj/Debug/net5.0/ref/Laba3_Massiv.dll
+/Users/vovamv/RiderProjects/Laba3_Massiv/Laba3_Massiv/obj/Debug/net5.0/Laba3_Massiv.pdb
+/Users/vovamv/RiderProjects/Laba3_Massiv/Laba3_Massiv/obj/Debug/net5.0/Laba3_Massiv.genruntimeconfig.cache
